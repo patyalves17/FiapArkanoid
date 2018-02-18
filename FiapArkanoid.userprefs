@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{203ED380-E1EA-18BE-38D3-9F54FC539EC9}|" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Block.cs" Line="21" Column="20" />
+      <File FileName="Assets/Scripts/MainGame.cs" Line="11" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FiapArkanoid PreferredExecutionTarget="Unity.Editor" />
+</Properties>
